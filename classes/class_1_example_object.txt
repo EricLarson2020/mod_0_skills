@@ -1,0 +1,13 @@
+apple pie
+
+Attributes:
+filling: 'apple'
+temperature: 60
+is_eaten: false
+label: ["apple", "enriched wheat"]
+
+Methods:
+change_filling: 'cherry'
+cool pie: 59
+eat_pie: is_eaten=true
+add_label:["apple", "enriched wheat", "sugar"]
