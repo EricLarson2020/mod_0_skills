@@ -1,0 +1,13 @@
+Penne Pasta
+
+Attributes:
+current_temp: 50
+shape: oval
+is_whole_wheat: True
+cooking_time: 10
+
+Method:
+heat_pasta: 51
+mash: 'flat oval'
+process: is_whole_wheat=false
+add_salt: 9
