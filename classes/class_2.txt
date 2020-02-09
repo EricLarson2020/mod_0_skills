@@ -1,0 +1,13 @@
+Pasta
+
+Attributes:
+current_temp (integer)
+shape (string)
+is_whole_wheat (boolean)
+cooking_time (integer)
+
+Method:
+heat_pasta (increase current_temp by 1)
+mash (change shape to 'flat oval')
+process (change is_whole_wheat to false)
+add_salt (subtract one from cooking_time)
