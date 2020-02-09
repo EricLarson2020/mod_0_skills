@@ -1,0 +1,13 @@
+Pie
+
+Attributes:
+filling (string)
+temperature (integer)
+is_eaten (boolean)
+label (array)
+
+Methods:
+change_filling (changes the filling string)
+cool_pie (reduce temperature by 1)
+eat_pie (change is_eaten to true)
+add_label (adds label to end of label array)
