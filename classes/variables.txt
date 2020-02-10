@@ -1,0 +1,9 @@
+food='apple'
+is_new=true
+food='pear'
+num1=5
+num2=1
+num3=num1 * num2
+movies=["1917", "Star Wars", "Hairy Potter"]
+puts "Array without last element :#{movies.take(2)}\n\n"
+puts "How many elements in array? : #{movies.count}\n\n"
